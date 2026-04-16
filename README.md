@@ -1,4 +1,4 @@
 # IdleWorlds
-A html game engine for Idle Games.
+Modern Web Engine for small scale multiplayer games.
 
 > Live: https://cainoce.github.io/IdleWorlds/
